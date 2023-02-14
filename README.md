@@ -18,7 +18,7 @@ I'm Armin, and it seems you've stumbled upon my github!
 
 This is where I store the projects I am working on. Take a look and see!
 
-## About Me :test_tube: :lab_coat:<a name="about-me"></a>
+## About Me :test_tube::lab_coat:<a name="about-me"></a>
 I am a former chemistry student with a great interest in data analysis. I (properly) started my coding journey around August 2022 by learning python and working through some ebooks on **data science** and **machine learning**. I intend to update this repository with some of my smaller and larger projects (They still need some polishing :sweat_smile: ), and whatever else I am working on. Expect to see more here, soon<sup>*TM*</sup>!
 
 ## Structure of this Repo <a name="structure-of-this-repo"></a>
