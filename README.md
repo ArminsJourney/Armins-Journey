@@ -16,15 +16,15 @@ I'm Armin, and it seems you've stumbled upon my github!
 
 ## What is this?:thinking:<a name="what-is-this"></a>
 
-This is where I store the projects I am working on. Take a look and see!
+This is where I store everything code-related that I am working on. Take a look and see!
 
 ## About Me :test_tube::lab_coat::point_right::bar_chart::computer:<a name="about-me"></a>
 I am a former chemistry student with a great interest in data analysis. I (properly) started my coding journey around August 2022 by learning python and working through some ebooks on **data science** and **machine learning**. I intend to update this repository with some of my smaller and larger projects (They still need some polishing :sweat_smile: ), and whatever else I am working on. Expect to see more here, soon<sup>*TM*</sup>!
 
 ## Structure of this Repo:card_index_dividers:<a name="structure-of-this-repo"></a>
-"Courses" contains my notebooks and some of the accompanying material that accumulates while I work through different online courses.
+**"Courses"** contains my notebooks and some of the accompanying material that accumulates while I work through different online courses. I will treat **Ebooks** as if they were online courses, too!
 
-"Projects" will contain all of the projects I am working on currently or that I have finished already. From tiny to hopefully fairly large ones.
+**"Projects"** will contain all of the projects I am working on currently or that I have finished already. From tiny to hopefully fairly large ones.
 
 ## Roadmap:world_map::dart:<a name="roadmap"></a>
 Short, medium and long term projects or goals I plan to achieve. 
