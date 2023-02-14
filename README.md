@@ -4,13 +4,13 @@ I'm Armin, and it seems you've stumbled upon my github!
 <details>
   <summary>Table of contents</summary>
 
-    1. [What is this?](#what-is-this)
-    2. [About Me](#about-me)
-    3. [Structure of this repo](#structure-of-this-repo)   
-    4. [Roadmap](#roadmap)
-        1. [Short Term](#short-term)
-        2. [Medium Term](#medium-term)
-        3. [Long Term](#long-term)
+1. [What is this?](#what-is-this)
+2. [About Me](#about-me)
+3. [Structure of this repo](#structure-of-this-repo)   
+4. [Roadmap](#roadmap)
+    1. [Short Term](#short-term)
+    2. [Medium Term](#medium-term)
+    3. [Long Term](#long-term)
 
 </details>
 
