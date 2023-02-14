@@ -16,19 +16,33 @@ I'm Armin, and it seems you've stumbled upon my github!
 
 ### What is this?<a name="what-is-this"></a>
 
-
+This is where I store the projects I am working on. Take a look and see!
 
 ### About Me<a name="about-me"></a>
-I am a former chemistry student with a great interest in data analysis. I (properly) started my coding journey about half a year ago by learning python and working through some ebooks on **data science** and **machine learning**. I intend to update this repository with some of my smaller and larger projects (They still need some polishing ^^ ), and whatever else I am working on. Expect to see more here, soon!
+I am a former chemistry student with a great interest in data analysis. I (properly) started my coding journey about half a year ago by learning python and working through some ebooks on **data science** and **machine learning**. I intend to update this repository with some of my smaller and larger projects (They still need some polishing :sweat_smile: ), and whatever else I am working on. Expect to see more here, soon!
 
-### Some paragraph <a name="structure-of-this-repo"></a>
+### Structure of this Repo <a name="structure-of-this-repo"></a>
+"Courses" contains my notebooks and some of the accompanying material that accumulates while I work through different online courses.
 
+"Projects" will contain all of the projects I am working on currently or that I have finished already. From tiny to hopefully quite large ones.
 
 ### Roadmap <a name="roadmap"></a>
-The second paragraph text
+Short, medium and long term projects or goals I plan to achieve. 
 
 #### Short Term <a name="short-term"></a>
+ - [ ] Polish up the repository structure, make more appealing
+ - [ ] Link to the repository on Xing, and my resume
+ - [ ] Add medium and long term goals
+ - [ ] Research and imagine exciting and achievable projects to create
+ - [x] Create blog domain
+ - [ ] Publish first blogpost
+ - [ ] Interlink blog and github
 
 #### Medium Term <a name="medium-term"></a>
 
+- [ ] Refine past projects, make them presentable and upload here
+- [ ] Finish preparatory course "TensorFlow Developer Certificate in 2023: Zero to Mastery" and upload progress in appealing manner
+- [ ] Finish TUM "Introduction to Deep Learning (I2DL)" exercises (and upload insights?)
+
 #### Long Term <a name="long-term"></a>
+- [ ] Visualize, plan and carry out exiting projects
