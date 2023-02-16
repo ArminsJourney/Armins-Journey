@@ -31,7 +31,7 @@ Short, medium and long term projects or goals I plan to achieve.
 
 ### Short Term:racing_car:<a name="short-term"></a>
  - [x] Finish basic structure and content of this readme
- - [ ] Polish up the repository structure, make more appealing
+ - [x] Polish up the repository structure, make more appealing
  - [ ] Link to the repository on Xing, and my resume
  - [ ] Add medium and long term goals
  - [ ] Research and imagine exciting and achievable projects to create
